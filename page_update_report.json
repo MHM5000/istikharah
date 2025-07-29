@@ -1,0 +1,79 @@
+{
+  "missing_in_csv": [
+    {
+      "sura": 2,
+      "aya": 286
+    },
+    {
+      "sura": 3,
+      "aya": 2
+    },
+    {
+      "sura": 7,
+      "aya": 2
+    },
+    {
+      "sura": 22,
+      "aya": 38
+    },
+    {
+      "sura": 31,
+      "aya": 2
+    },
+    {
+      "sura": 32,
+      "aya": 2
+    },
+    {
+      "sura": 42,
+      "aya": 3
+    },
+    {
+      "sura": 44,
+      "aya": 2
+    },
+    {
+      "sura": 45,
+      "aya": 2
+    }
+  ],
+  "update_errors": [],
+  "null_page_rows": [
+    {
+      "sura": 32,
+      "aya": 2
+    },
+    {
+      "sura": 22,
+      "aya": 38
+    },
+    {
+      "sura": 31,
+      "aya": 2
+    },
+    {
+      "sura": 2,
+      "aya": 286
+    },
+    {
+      "sura": 44,
+      "aya": 2
+    },
+    {
+      "sura": 42,
+      "aya": 3
+    },
+    {
+      "sura": 3,
+      "aya": 2
+    },
+    {
+      "sura": 7,
+      "aya": 2
+    },
+    {
+      "sura": 45,
+      "aya": 2
+    }
+  ]
+}
